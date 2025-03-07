@@ -39,7 +39,7 @@ export default function Home() {
             <Image className="w-full rounded-lg" src={t5} alt="" />
           </div>
 
-    <div className="md:w-[32.8%] w-full flex flex-col space-y-[2%]">
+          <div className="md:w-[32.8%] w-full flex flex-col space-y-[2%]">
             <Image className="w-full rounded-lg" src={t223} alt="" />
             <Image className="w-full rounded-lg" src={t6} alt="" />
             <Image className="w-full rounded-lg" src={t7} alt="" />
@@ -50,7 +50,7 @@ export default function Home() {
             <Image className="w-full rounded-lg" src={t10} alt="" />
           </div>
 
-    <div className="md:w-[32.8%] w-full flex flex-col space-y-[2%]">
+          <div className="md:w-[32.8%] w-full flex flex-col space-y-[2%]">
             <Image className="w-full rounded-lg" src={t224} alt="" />
             <Image className="w-full rounded-lg" src={t225} alt="" />
             <Image className="w-full rounded-lg" src={t11} alt="" />
